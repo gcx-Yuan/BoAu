@@ -1,8 +1,8 @@
 # BoAu
 Cite the dataset through this paper:
 
-@article{YUAN2023103300,
-  title = {BoAu: Malicious Traffic Detection with Noise Labels Based on Boundary Augmentation},
+@article{YUAN2023103300,  
+  title = {BoAu: Malicious Traffic Detection with Noise Labels Based on Boundary Augmentation},  
   author = {Qingjun Yuan and Chang Liu and Wentao Yu and Yuefei Zhu and Gang Xiong and Yongjuan Wang and Gaopeng Gou},
   journal = {Computers & Security},
   pages = {103300},
